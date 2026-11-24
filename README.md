@@ -30,6 +30,7 @@ The feature under test is a support-email classifier (billing / technical / acco
 Standard library only, Python 3.10+.
 
 ## Demo and try it
+- **Live app, no install:** https://pavan-llm-regression-guard.streamlit.app (free hosting, may take a few seconds to wake up)
 - Demo video with voiceover (45 s): [demo/demo.mp4](demo/demo.mp4)
 - Run the Streamlit app yourself on any machine with Python 3.10+:
 
