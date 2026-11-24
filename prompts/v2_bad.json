@@ -1,0 +1,6 @@
+{"version": "v2_bad", "default": "general",
+ "system": "Classify the support email. Be brief.",
+ "keywords": {
+  "billing": ["invoice", "refund", "receipt"],
+  "technical": ["error", "crash", "bug", "broken"],
+  "account": ["password", "login", "locked"]}}

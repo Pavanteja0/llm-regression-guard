@@ -1,0 +1,234 @@
+{
+ "version": "golden-1",
+ "note": "Hand-written synthetic cases, labels assigned by hand.",
+ "cases": [
+  {
+   "id": "c01",
+   "input": "I was charged twice for my March invoice, please refund one payment.",
+   "expected": "billing",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c02",
+   "input": "Where can I download the receipt for my last payment?",
+   "expected": "billing",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c03",
+   "input": "Your price went up and my billing page shows the wrong amount.",
+   "expected": "billing",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c04",
+   "input": "Please refund my subscription fee, I cancelled last week.",
+   "expected": "billing",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c05",
+   "input": "My card was overcharged by 20 dollars on the latest invoice.",
+   "expected": "billing",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c06",
+   "input": "Need an invoice with our company VAT number for the payment.",
+   "expected": "billing",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c07",
+   "input": "Billing question: why is there a second charge on my statement?",
+   "expected": "billing",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c08",
+   "input": "refund pls, charged after trial",
+   "expected": "billing",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c09",
+   "input": "The app shows an error 500 whenever I upload a file.",
+   "expected": "technical",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c10",
+   "input": "Dashboard is very slow and sometimes hits a timeout.",
+   "expected": "technical",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c11",
+   "input": "The mobile app crash happens right after opening settings.",
+   "expected": "technical",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c12",
+   "input": "Export button is broken, nothing downloads.",
+   "expected": "technical",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c13",
+   "input": "I think I found a bug: the chart is not working on Safari.",
+   "expected": "technical",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c14",
+   "input": "Sync fails every night around 2am.",
+   "expected": "technical",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c15",
+   "input": "page won't load after the update",
+   "expected": "technical",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c16",
+   "input": "Search freezes when I type more than 20 characters.",
+   "expected": "technical",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c17",
+   "input": "I forgot my password and the reset link has expired.",
+   "expected": "account",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c18",
+   "input": "Please change the email address on my account.",
+   "expected": "account",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c19",
+   "input": "My account is locked after too many login attempts.",
+   "expected": "account",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c20",
+   "input": "How do I turn on 2fa for my username?",
+   "expected": "account",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c21",
+   "input": "I cannot sign in with my new phone.",
+   "expected": "account",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c22",
+   "input": "Please delete my account and all my data.",
+   "expected": "account",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c23",
+   "input": "Can't log in, says wrong password but I'm sure it's right.",
+   "expected": "account",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c24",
+   "input": "Need to update the username on our team account.",
+   "expected": "account",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c25",
+   "input": "Do you have an office in Berlin?",
+   "expected": "general",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c26",
+   "input": "Thanks for the great service last week!",
+   "expected": "general",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c27",
+   "input": "Can I get a quote for 50 seats?",
+   "expected": "general",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c28",
+   "input": "What are your support hours on public holidays?",
+   "expected": "general",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c29",
+   "input": "Is there a student programme?",
+   "expected": "general",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c30",
+   "input": "Just checking if you are hiring.",
+   "expected": "general",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c31",
+   "input": "Who do I talk to about a partnership?",
+   "expected": "general",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c32",
+   "input": "hello",
+   "expected": "general",
+   "difficulty": "normal"
+  },
+  {
+   "id": "c33",
+   "input": "URGENT!!! nothing works, crash crash crash",
+   "expected": "technical",
+   "difficulty": "edge"
+  },
+  {
+   "id": "c34",
+   "input": "u charged me twice lol thanks a lot... really great",
+   "expected": "billing",
+   "difficulty": "edge"
+  },
+  {
+   "id": "c35",
+   "input": "password??",
+   "expected": "account",
+   "difficulty": "edge"
+  },
+  {
+   "id": "c36",
+   "input": "ok",
+   "expected": "general",
+   "difficulty": "edge"
+  },
+  {
+   "id": "c37",
+   "input": "I got an error when paying the invoice, and was charged anyway.",
+   "expected": "billing",
+   "difficulty": "edge"
+  },
+  {
+   "id": "c38",
+   "input": "login page throws a 500 error",
+   "expected": "account",
+   "difficulty": "edge"
+  }
+ ]
+}

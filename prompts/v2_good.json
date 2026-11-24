@@ -1,0 +1,6 @@
+{"version": "v2_good", "default": "general",
+ "system": "Classify the support email as billing, technical, account or general. Return JSON {category, summary}.",
+ "keywords": {
+  "billing": ["invoice", "charge", "charged", "refund", "payment", "billing", "receipt", "price", "subscription fee", "overcharged", "card"],
+  "technical": ["error", "crash", "bug", "not working", "broken", "fails", "timeout", "500", "slow", "won't load", "freezes"],
+  "account": ["password", "login", "log in", "account", "email address", "username", "locked", "2fa", "sign in", "delete my"]}}
